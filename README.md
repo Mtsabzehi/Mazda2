@@ -25,13 +25,13 @@
             overflow: hidden;
         }
         h1, h2 {
-            color: #ff9300;
+            color: #bbb369;
             text-align: center;
         }
         p {
             line-height: 1.8;
             font-size: 18px;
-            color: #ffab34;
+            color: #b4a622;
         }
         .pdf-container {
             margin-top: 20px;
@@ -46,7 +46,7 @@
         .download-btn {
             display: block;
             text-align: center;
-            background: #ff9300;
+            background: #bbb369;
             color: #ffffff;
             padding: 12px 20px;
             border-radius: 8px;
@@ -58,14 +58,14 @@
         }
         .download-btn:hover {
             background: #000000;
-            color: #ff9300;
+            color: #bbb369;
         }
         .language-buttons {
             text-align: center;
             margin-bottom: 20px;
         }
         .lang-btn {
-            background: #ff9300;
+            background: #bbb369;
             color: white;
             padding: 8px 16px;
             border: none;
@@ -77,7 +77,7 @@
         }
         .lang-btn:hover {
             background: #000000;
-            color: #ff9300  ;
+            color: #bbb369;
         }
     </style>
 </head>
