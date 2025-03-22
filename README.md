@@ -84,7 +84,7 @@
 <body>
     <div class="container">
         <div class="language-buttons">
-            <button class="lang-btn" onclick="translateText('fa')">🇮🇷 فارسی</button>
+            <button class="lang-btn" onclick="translateText('fa')">PR پارسی</button>
             <button class="lang-btn" onclick="translateText('en')">🇬🇧 English</button>
             <button class="lang-btn" onclick="translateText('ar')">🇸🇦 العربية</button>
         </div>
