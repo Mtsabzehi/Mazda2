@@ -2,6 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="https://biaupload.com/do.php?imgf=org-4df00eedaee41.png">
     <title>Hashashin's Life</title>
     <style>
         body {
@@ -84,7 +85,7 @@
 <body>
     <div class="container">
         <div class="language-buttons">
-            <button class="lang-btn" onclick="translateText('fa')">PR پارسی</button>
+            <button class="lang-btn" onclick="translateText('fa')">🇮🇷 فارسی</button>
             <button class="lang-btn" onclick="translateText('en')">🇬🇧 English</button>
             <button class="lang-btn" onclick="translateText('ar')">🇸🇦 العربية</button>
         </div>
